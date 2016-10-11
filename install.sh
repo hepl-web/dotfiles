@@ -82,7 +82,7 @@ vagrant box add --name leny/etab http://vagrant.flatland.be/etab-2016-10-04.box
 echo ""
 echo "----- generate directory structure -----"
 
-mkdir -p ~/students
+mkdir -p ~/Students
 
 echo ""
 echo "----- setup mac system -----"
