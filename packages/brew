@@ -1,0 +1,32 @@
+ack
+bfg
+cloc
+coreutils
+dnsmasq
+ffmpeg
+findutils
+geoip
+git
+git-extras
+gnu-sed --with-default-names
+go
+hr
+htop-osx
+hub
+links
+lynx
+moreutils
+nmap
+node
+p7zip
+phantomjs
+python
+python3
+sdl2
+sdl2_image
+sdl2_ttf
+sdl2_mixer
+ssh-copy-id
+svn
+tree
+wget --enable-iri
